@@ -1,4 +1,4 @@
-from calc import Calc
+from src.calc import Calc
 
 def test_add():
     c = Calc(10, 15)
