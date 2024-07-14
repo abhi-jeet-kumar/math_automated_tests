@@ -1,5 +1,5 @@
 
-![Tests](https://github.com/abhi-jeet-kumar/math_automated_tests/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/abhi-jeet-kumar/math_automated_tests/actions/workflows/tests.yaml/badge.svg)
 
 
 **# Python Calculator: A Powerful and User-Friendly Tool**
