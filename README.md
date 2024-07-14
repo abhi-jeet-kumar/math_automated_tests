@@ -1,4 +1,7 @@
 
+![Tests](https://github.com/abhi-jeet-kumar/math_automated_tests/actions/workflows/tests.yml/badge.svg)
+
+
 **# Python Calculator: A Powerful and User-Friendly Tool**
 
 This Python code implements a versatile calculator class `Calc` that provides essential arithmetic operations for numbers. It's designed to be clear, efficient, and easy to use.
@@ -60,5 +63,3 @@ Feel free to suggest improvements or additional features by creating a pull requ
 **## License**
 
 This code is provided under the [MIT License](https://opensource.org/licenses/MIT). You're free to use, modify, and distribute it as long as you retain the copyright notice.
-
-I hope this enhanced README file provides a clear and informative guide to your calculator code!
